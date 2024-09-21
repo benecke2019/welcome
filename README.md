@@ -1,6 +1,7 @@
 # An Ju-Young 🥃
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbenecke2019&count_bg=%23D35E00&title_bg=%2300B02B&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fred1230)](https://solved.ac/fred1230/)
 
 ## Education
@@ -14,7 +15,7 @@
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white)
 ![OCaml](https://img.shields.io/badge/OCaml-EC6813.svg?&style=for-the-badge&logo=OCaml&logoColor=white)
-![F#](https://img.shields.io/badge/F#-378BBA.svg?&style=for-the-badge&logo=F#&logoColor=white)
+![F#](https://img.shields.io/badge/F%23-378BBA.svg?&style=for-the-badge&logo=F%23&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080.svg?&style=for-the-badge&logo=LaTeX&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white)
 
